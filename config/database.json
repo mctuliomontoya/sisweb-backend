@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
+    "username": "sisweb_user",
+    "password": "HDK#$%Ljkwerff.89",
+    "database": "sisweb_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
@@ -21,3 +21,4 @@
     "dialect": "mysql"
   }
 }
+
