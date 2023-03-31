@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "test_user",
-    "password": "HDK#$%Ljkwerff.89",
+    "password": "",
     "database": "sisweb_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
